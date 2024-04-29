@@ -1,5 +1,8 @@
 package br.com.alura.school;
 
+import lombok.Getter;
+
+@Getter
 public class Email {
 
     private String address;
