@@ -1,4 +1,4 @@
-package br.com.alura.school;
+package br.com.alura.school.student;
 
 public class StudentFactory {
 

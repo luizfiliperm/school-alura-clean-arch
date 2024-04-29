@@ -1,6 +1,6 @@
-package br.com.alura.school;
+package br.com.alura.school.indication;
 
-import lombok.AllArgsConstructor;
+import br.com.alura.school.student.Student;
 import lombok.Getter;
 
 import java.time.LocalDateTime;
