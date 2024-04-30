@@ -14,6 +14,8 @@ public class Student {
 
     private Email email;
 
+    private String password;
+
     private List<Cellphone> cellphones = new ArrayList<>();
 
     public void addCellphone(String ddd, String number){
