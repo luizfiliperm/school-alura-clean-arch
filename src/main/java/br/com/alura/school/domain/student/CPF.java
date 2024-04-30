@@ -1,8 +1,10 @@
 package br.com.alura.school.domain.student;
 
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 
 @Getter
+@EqualsAndHashCode
 public class CPF {
 
     private String number;
